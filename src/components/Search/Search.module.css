@@ -1,0 +1,32 @@
+.searchContainer{
+    display: flex;
+    align-items:baseline;
+    line-height: normal;
+    padding: 30px;
+    width: 350px;
+    
+}
+
+.inputSearch{
+    height: 40px;
+    border-radius: 5px;
+    padding: 5px;
+    width: 350px;
+    background-color: rgba(229, 221, 215, 0.946);
+    border-width: thin;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+
+}
+
+.buttonSearch{
+    height: 40px;
+    width: 65px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+
+.Search_p{
+font-size: 1rem;
+}

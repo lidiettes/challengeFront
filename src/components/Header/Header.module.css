@@ -1,0 +1,54 @@
+
+.nav-link{
+    text-decoration: none !important;
+}
+.dropdown-toggle.nav-link{
+    color:white;
+}
+.nav-item.show.dropdown{
+
+    color:white;
+}
+
+::after {
+   color: white;
+}
+
+.brand.navbar-brand {
+    color: white;
+    margin-right: 220px
+    
+  ;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    letter-spacing: 0.2em;
+    background-color:#6EB975;
+    display: flex;
+    width: 100vw;
+    
+}
+
+
+a.nav-link {
+    color: white;
+    font-size: 1.5rem;
+    margin-right: 50px;
+  
+
+}
+.nav{
+    position: absolute;
+    right: 80px;
+    left: auto;
+
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

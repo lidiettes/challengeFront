@@ -1,0 +1,35 @@
+.card {
+    min-width: 356px;
+    min-height: 450px;
+    width: 20%;
+    height: 20%;
+    background-color: #fff;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.cardImage {
+    width: 310px;
+    height: 300px;
+    object-fit: cover;
+ }
+
+.cardTitle {
+    font-size: 20px;
+    color: #333;
+    height: 50px;
+    line-height: 50px;
+    padding: 20px;
+}
+
+.cardDescription {
+    font-size: 14px;
+    color: #555;
+    text-align: justify;
+}
